@@ -20,7 +20,7 @@ import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 import shadowz01.crycraft.misc.*;
 
-@Mod(modid = "The ModiumVentures Mod", name = "The ModiumVentures Mod", version = "V.1_00.0")
+@Mod(modid = "The CryCraft Mod", name = "The CryCraft Mod", version = "0.5 Pre-Alpha")
 @NetworkMod(clientSideRequired = true, serverSideRequired = false)
 public class Crycraft
 {
